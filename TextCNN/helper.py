@@ -3,6 +3,7 @@
 import os
 import re
 import numpy as np
+from nltk.corpus import stopwords
 
 
 # ### Batch indices generator
